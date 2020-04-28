@@ -1,0 +1,4 @@
+{
+  "MONGO_URI": "mongodb+srv://alonzuman7:alonzuman@twitter-clone-dg08s.mongodb.net/test?retryWrites=true&w=majority",
+  "JWT_SECRET": "MYSECRET"
+}
